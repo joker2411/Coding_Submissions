@@ -7,12 +7,12 @@ public:
     }
     
     int longestConsecutive(vector<int>& nums) {
-        unordered_set<int> st;
+        unordered_set<int> st(nums.begin(), nums.end());
         unordered_map<int, bool> mp;
         int N = nums.size();
         
         for(int i=0; i<N; i++){
-            st.insert(nums[i]);
+            // st.insert(nums[i]);
             mp.insert(pair<int, bool>(nums[i], false));
         }
         
