@@ -95,8 +95,11 @@ public:
         if(node->data >= l && node->data <= h){
             return 1 + count(node->left, l, h) + count(node->right, l, h);
         }
-        else{
-            return count(node->left, l, h) + count(node->right, l, h);
+        if(node->data < l){
+            return count(node->right, l, h);
+        }
+        else if(node->data > h){
+            return count(node->left, l, h);
         }
     }
     
