@@ -16,31 +16,37 @@ struct Item{
     int weight;
 };
 */
-bool comparison(Item a,Item b){
-        return(((double)a.value/(double)a.weight)>((double)b.value/(double)b.weight));
-    }
+bool comparator(Item a, Item b){
+    return (a.value/(double)a.weight) > (b.value/(double)b.weight);
+}
 
 class Solution
 {
     public:
+    //Function to get the maximum total value in the knapsack.
     
     double fractionalKnapsack(int W, Item arr[], int n)
     {
-        sort(arr,arr+n,comparison);
-        double profit=0;
-        for(int i=0;i<n;i++){
-            if(W-arr[i].weight>=0){
-                W= W-arr[i].weight;
-                profit += arr[i].value;
-            }
-            else{
-                profit += W*((double)arr[i].value/(double)arr[i].weight);
-                W=0;
+        sort(arr, arr+n, comparator);
+        
+        // for(int i=0; i<n ; i++){
+        //     cout<<arr[i].value<<"--";
+        //     cout<<arr[i].weight<<"--"<<endl;
+        // }
+        int i=0;
+        double ans = 0;
+        
+        while(W>0 && i<n){
+            if(arr[i].weight >= W){
+                ans += ((double)(arr[i].value)*(double)W/(double)arr[i].weight);
+                W = 0;
                 break;
             }
+            ans += arr[i].value;
+            W -= arr[i].weight;
+            i++;
         }
-        
-        return profit;
+        return ans;
     }
         
 };
