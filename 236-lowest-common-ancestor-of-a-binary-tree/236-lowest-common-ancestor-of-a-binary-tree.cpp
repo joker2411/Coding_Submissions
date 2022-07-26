@@ -9,25 +9,24 @@
  */
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) 
-    {
-        if (!root)
-            return root;
+    bool exist(TreeNode* node, TreeNode* pt){
+        if(node == pt)
+            return true;
+        if(node == NULL)
+            return false;
+        return exist(node->left, pt) || exist(node->right, pt);
         
-		// If p or q if found, return the root.
-        if (root == p || root == q)
-            return root;
+    }
+    
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        TreeNode* res = NULL;
+        if((exist(root->left, p) && exist(root->right, q)) || (exist(root->left, q) && exist(root->right, p)) || (root == p) || (root == q))
+            res = root;
+        else if(exist(root->left, p) && exist(root->left, q))
+            res = lowestCommonAncestor(root->left, p, q);
+        else
+            res = lowestCommonAncestor(root->right, p, q);
         
-		// Save the root found at left and right recursively
-        TreeNode* left = lowestCommonAncestor(root->left, p, q);
-        TreeNode* right = lowestCommonAncestor(root->right, p, q);
-        
-		// If both the nodes are found, return parent of that node. That will be root.
-        if (left && right)
-            return root;
-        // If left is found, and right is not found.
-		// It is given that both the p and q will exist for sure.
-		// If left present then right will be a decendent of left, or vice versa.
-        return left? left: right;
+        return res;
     }
 };
