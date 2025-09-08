@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joker2411/Coding_Submissions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/joker2411/Coding_Submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/joker2411/Coding_Submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/joker2411/Coding_Submissions/tree/master/0075-sort-colors) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/joker2411/Coding_Submissions/tree/master/0048-rotate-image) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joker2411/Coding_Submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/joker2411/Coding_Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/joker2411/Coding_Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
