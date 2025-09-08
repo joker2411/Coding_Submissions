@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joker2411/Coding_Submissions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/joker2411/Coding_Submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/joker2411/Coding_Submissions/tree/master/0075-sort-colors) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joker2411/Coding_Submissions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
