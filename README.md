@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/joker2411/Coding_Submissions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/joker2411/Coding_Submissions/tree/master/0062-unique-paths) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joker2411/Coding_Submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/joker2411/Coding_Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/joker2411/Coding_Submissions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/joker2411/Coding_Submissions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joker2411/Coding_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -76,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/joker2411/Coding_Submissions/tree/master/0074-search-a-2d-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/joker2411/Coding_Submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
