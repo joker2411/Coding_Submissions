@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/joker2411/Coding_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/joker2411/Coding_Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0088-merge-sorted-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
