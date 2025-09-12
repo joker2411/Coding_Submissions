@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joker2411/Coding_Submissions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/joker2411/Coding_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Matrix
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/joker2411/Coding_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
@@ -103,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/3462-vowels-game-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/joker2411/Coding_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
