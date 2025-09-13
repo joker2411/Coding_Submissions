@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joker2411/Coding_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/joker2411/Coding_Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/joker2411/Coding_Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/joker2411/Coding_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/joker2411/Coding_Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/joker2411/Coding_Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/joker2411/Coding_Submissions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/joker2411/Coding_Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/joker2411/Coding_Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 ## Linked List
 |  |
@@ -120,5 +124,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/joker2411/Coding_Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
