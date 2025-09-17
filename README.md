@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/joker2411/Coding_Submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/joker2411/Coding_Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/joker2411/Coding_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/joker2411/Coding_Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/joker2411/Coding_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/joker2411/Coding_Submissions/tree/master/0014-longest-common-prefix) |
+| [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/joker2411/Coding_Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -146,4 +149,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/joker2411/Coding_Submissions/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
