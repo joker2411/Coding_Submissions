@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/joker2411/Coding_Submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/joker2411/Coding_Submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/joker2411/Coding_Submissions/tree/master/0062-unique-paths) |
+| [0166-fraction-to-recurring-decimal](https://github.com/joker2411/Coding_Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joker2411/Coding_Submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/joker2411/Coding_Submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/joker2411/Coding_Submissions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/joker2411/Coding_Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/joker2411/Coding_Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/joker2411/Coding_Submissions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/joker2411/Coding_Submissions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/joker2411/Coding_Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
 | [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
