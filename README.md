@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joker2411/Coding_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/joker2411/Coding_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/joker2411/Coding_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/joker2411/Coding_Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/joker2411/Coding_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/joker2411/Coding_Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/joker2411/Coding_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 ## Linked List
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/joker2411/Coding_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/joker2411/Coding_Submissions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/joker2411/Coding_Submissions/tree/master/3678-design-task-manager) |
@@ -205,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/joker2411/Coding_Submissions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/joker2411/Coding_Submissions/tree/master/0078-subsets) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/joker2411/Coding_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
