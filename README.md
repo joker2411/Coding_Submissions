@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/joker2411/Coding_Submissions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/joker2411/Coding_Submissions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/joker2411/Coding_Submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/joker2411/Coding_Submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/joker2411/Coding_Submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/joker2411/Coding_Submissions/tree/master/0056-merge-intervals) |
@@ -197,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/joker2411/Coding_Submissions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
