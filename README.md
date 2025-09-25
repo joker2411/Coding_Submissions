@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/joker2411/Coding_Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joker2411/Coding_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/joker2411/Coding_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/joker2411/Coding_Submissions/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/joker2411/Coding_Submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/joker2411/Coding_Submissions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joker2411/Coding_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
