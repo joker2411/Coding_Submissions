@@ -7,14 +7,16 @@ class TreeNode:
 
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        answer = []
-        def traverse(node: Optional[TreeNode]) -> None:
-            if node == None:
-                return
-
-            traverse(node.left)
+        node: TreeNode = root
+        st = list()
+        answer = list()
+        while node or len(st)>0:
+            while node:
+                st.append(node)
+                node = node.left
+            if len(st) == 0:
+                break
+            node = st.pop()
             answer.append(node.val)
-            traverse(node.right)
-
-        traverse(root)
+            node = node.right
         return answer
