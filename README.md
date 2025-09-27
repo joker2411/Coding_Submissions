@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/joker2411/Coding_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/joker2411/Coding_Submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -242,4 +243,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/joker2411/Coding_Submissions/tree/master/0830-largest-triangle-area) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/joker2411/Coding_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/joker2411/Coding_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/joker2411/Coding_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
