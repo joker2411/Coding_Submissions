@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/joker2411/Coding_Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/joker2411/Coding_Submissions/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/joker2411/Coding_Submissions/tree/master/0800-letter-case-permutation) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/joker2411/Coding_Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/joker2411/Coding_Submissions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/joker2411/Coding_Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
+| [0800-letter-case-permutation](https://github.com/joker2411/Coding_Submissions/tree/master/0800-letter-case-permutation) |
 | [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/3462-vowels-game-in-a-string) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/joker2411/Coding_Submissions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/joker2411/Coding_Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/joker2411/Coding_Submissions/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/joker2411/Coding_Submissions/tree/master/0800-letter-case-permutation) |
 ## Quickselect
 |  |
 | ------- |
