@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/joker2411/Coding_Submissions/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/joker2411/Coding_Submissions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/joker2411/Coding_Submissions/tree/master/2023-design-movie-rental-system) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/joker2411/Coding_Submissions/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/joker2411/Coding_Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/joker2411/Coding_Submissions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joker2411/Coding_Submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/joker2411/Coding_Submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/joker2411/Coding_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/joker2411/Coding_Submissions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 ## Linked List
 |  |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/joker2411/Coding_Submissions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
