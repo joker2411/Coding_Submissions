@@ -280,4 +280,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/joker2411/Coding_Submissions/tree/master/1642-water-bottles) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/joker2411/Coding_Submissions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
