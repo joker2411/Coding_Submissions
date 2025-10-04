@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joker2411/Coding_Submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/joker2411/Coding_Submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/joker2411/Coding_Submissions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/joker2411/Coding_Submissions/tree/master/0039-combination-sum) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/joker2411/Coding_Submissions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/joker2411/Coding_Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0088-merge-sorted-array) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/joker2411/Coding_Submissions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/joker2411/Coding_Submissions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
