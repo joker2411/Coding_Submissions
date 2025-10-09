@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/joker2411/Coding_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/joker2411/Coding_Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/joker2411/Coding_Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/joker2411/Coding_Submissions/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1642-water-bottles](https://github.com/joker2411/Coding_Submissions/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/joker2411/Coding_Submissions/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/joker2411/Coding_Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Database
 |  |
 | ------- |
@@ -319,4 +321,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/joker2411/Coding_Submissions/tree/master/0098-validate-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/joker2411/Coding_Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
