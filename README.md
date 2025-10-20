@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/joker2411/Coding_Submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/joker2411/Coding_Submissions/tree/master/2023-design-movie-rental-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/joker2411/Coding_Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/joker2411/Coding_Submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/joker2411/Coding_Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
 | [0800-letter-case-permutation](https://github.com/joker2411/Coding_Submissions/tree/master/0800-letter-case-permutation) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/joker2411/Coding_Submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/joker2411/Coding_Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/3462-vowels-game-in-a-string) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/joker2411/Coding_Submissions/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/joker2411/Coding_Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/joker2411/Coding_Submissions/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/joker2411/Coding_Submissions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Database
