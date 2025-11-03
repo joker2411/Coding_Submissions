@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/joker2411/Coding_Submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/joker2411/Coding_Submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/joker2411/Coding_Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/joker2411/Coding_Submissions/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/joker2411/Coding_Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joker2411/Coding_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/joker2411/Coding_Submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/joker2411/Coding_Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/joker2411/Coding_Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/joker2411/Coding_Submissions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/joker2411/Coding_Submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/joker2411/Coding_Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joker2411/Coding_Submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## String
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
 | [0800-letter-case-permutation](https://github.com/joker2411/Coding_Submissions/tree/master/0800-letter-case-permutation) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/joker2411/Coding_Submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/joker2411/Coding_Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/joker2411/Coding_Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/joker2411/Coding_Submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
