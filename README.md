@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/joker2411/Coding_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/joker2411/Coding_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/joker2411/Coding_Submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/joker2411/Coding_Submissions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/joker2411/Coding_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/joker2411/Coding_Submissions/tree/master/0611-valid-triangle-number) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joker2411/Coding_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0474-ones-and-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/joker2411/Coding_Submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/joker2411/Coding_Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/joker2411/Coding_Submissions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/joker2411/Coding_Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/joker2411/Coding_Submissions/tree/master/0474-ones-and-zeroes) |
 | [0800-letter-case-permutation](https://github.com/joker2411/Coding_Submissions/tree/master/0800-letter-case-permutation) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/joker2411/Coding_Submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/joker2411/Coding_Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
