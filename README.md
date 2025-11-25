@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/joker2411/Coding_Submissions/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/joker2411/Coding_Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/joker2411/Coding_Submissions/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/joker2411/Coding_Submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/joker2411/Coding_Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/joker2411/Coding_Submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/joker2411/Coding_Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/joker2411/Coding_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/joker2411/Coding_Submissions/tree/master/0496-next-greater-element-i) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/joker2411/Coding_Submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/joker2411/Coding_Submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/joker2411/Coding_Submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
