@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/joker2411/Coding_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/joker2411/Coding_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/joker2411/Coding_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/joker2411/Coding_Submissions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/joker2411/Coding_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/joker2411/Coding_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/joker2411/Coding_Submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/joker2411/Coding_Submissions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
