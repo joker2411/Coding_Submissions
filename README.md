@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/joker2411/Coding_Submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/joker2411/Coding_Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/joker2411/Coding_Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/joker2411/Coding_Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/joker2411/Coding_Submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/joker2411/Coding_Submissions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/joker2411/Coding_Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/joker2411/Coding_Submissions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/joker2411/Coding_Submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/joker2411/Coding_Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/joker2411/Coding_Submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/joker2411/Coding_Submissions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/joker2411/Coding_Submissions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/joker2411/Coding_Submissions/tree/master/0062-unique-paths) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/joker2411/Coding_Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/joker2411/Coding_Submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/joker2411/Coding_Submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
