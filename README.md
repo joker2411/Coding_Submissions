@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/joker2411/Coding_Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/joker2411/Coding_Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joker2411/Coding_Submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3074-apple-redistribution-into-boxes](https://github.com/joker2411/Coding_Submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/joker2411/Coding_Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/joker2411/Coding_Submissions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/joker2411/Coding_Submissions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/joker2411/Coding_Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/joker2411/Coding_Submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/joker2411/Coding_Submissions/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/joker2411/Coding_Submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/joker2411/Coding_Submissions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/joker2411/Coding_Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3606-coupon-code-validator](https://github.com/joker2411/Coding_Submissions/tree/master/3606-coupon-code-validator) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1834-minimum-number-of-people-to-teach](https://github.com/joker2411/Coding_Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/joker2411/Coding_Submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/joker2411/Coding_Submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3074-apple-redistribution-into-boxes](https://github.com/joker2411/Coding_Submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/joker2411/Coding_Submissions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/joker2411/Coding_Submissions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
